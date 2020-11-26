@@ -1,1 +1,1 @@
-# Statistical-Machine-Learning-projects
+# Statistical-Machine-Learning-Basics
